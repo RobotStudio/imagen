@@ -1,2 +1,2 @@
 # imagen
-An image generation system for embedded hardware
+A lightweight containerization system for embedded hardware
